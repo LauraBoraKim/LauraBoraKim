@@ -1,6 +1,6 @@
 🖐 Hi, I’m **@LauraBoraKim** 김보라
 
-🌱  I’m currently learning ✨**Front-end web development**✨
+🌱  I’m ✨**Front-end web developer**✨
 
 📫  **Contact**  laura.bora.kim@gmail.com
 
